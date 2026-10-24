@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\Splitter.jsx -> @breezystack/lamejs\":{\"id\":\"components\\\\Splitter.jsx -> @breezystack/lamejs\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_breezystack_lamejs_dist_lamejs_js.js\"]}}"
